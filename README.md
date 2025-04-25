@@ -12,12 +12,10 @@ Features
 - 🌎 Multi-language support
 - 📱 Responsive design for mobile and desktop
 
-Demo
 
 You can try the live demo here:  
 [https://v0-frontend-flashcard-app-gray.vercel.app/](https://v0-frontend-flashcard-app-gray.vercel.app/)
 
-Installation
 
 If you want to run it locally:
 ```bash
